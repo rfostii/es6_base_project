@@ -1,0 +1,24 @@
+#app {
+	position: relative;
+	top: 1em;
+	width: 60%;
+	margin: auto;
+}
+
+.carousel {
+	margin: auto;
+}
+
+.filter-container {
+	text-align: center;
+}
+
+.filter-item {
+	display: inline-block;
+	margin: 1em;
+}
+
+.add-to-favorite {
+	width: 100%;
+	margin-top: 1em;
+}
